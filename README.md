@@ -6,3 +6,5 @@ Repositório de testes de autenticações
 2.Autenticação via Token de acesso pessoal.
 
 3.Autenticação via chave SSH.
+
+4.Autenticação via chave SSH02.
